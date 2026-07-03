@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="900"
+     viewBox="0 0 900 900"
+     fill="none">
+
+    <defs>
+
+        <radialGradient id="blobGradientTop"
+                        cx="50%"
+                        cy="50%"
+                        r="50%">
+
+            <stop offset="0%"
+                  stop-color="#0E728A"
+                  stop-opacity="0.55"/>
+
+            <stop offset="60%"
+                  stop-color="#2F8FA4"
+                  stop-opacity="0.35"/>
+
+            <stop offset="100%"
+                  stop-color="#FFFFFF"
+                  stop-opacity="0"/>
+
+        </radialGradient>
+
+    </defs>
+
+    <ellipse
+        cx="450"
+        cy="450"
+        rx="380"
+        ry="340"
+        fill="url(#blobGradientTop)"/>
+
+</svg>

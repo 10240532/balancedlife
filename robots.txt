@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://10240532.github.io/balancedlife/sitemap.xml

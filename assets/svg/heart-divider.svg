@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 64 64"
+    fill="none">
+
+    <defs>
+
+        <linearGradient
+            id="heartGradient"
+            x1="0"
+            y1="0"
+            x2="64"
+            y2="64">
+
+            <stop
+                offset="0%"
+                stop-color="#B68DB6"/>
+
+            <stop
+                offset="100%"
+                stop-color="#EED7EC"/>
+
+        </linearGradient>
+
+    </defs>
+
+    <path
+        d="
+        M32 55
+
+        C30 53
+        10 39
+        10 23
+
+        C10 15
+        16 9
+        24 9
+
+        C29 9
+        32 12
+        32 12
+
+        C32 12
+        35 9
+        40 9
+
+        C48 9
+        54 15
+        54 23
+
+        C54 39
+        34 53
+        32 55
+        "
+
+        fill="url(#heartGradient)"
+
+        stroke="#A878A8"
+
+        stroke-width="1.2"
+
+        stroke-linejoin="round"/>
+
+</svg>

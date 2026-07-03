@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 220 220"
+    fill="none">
+
+    <g
+        stroke="#B690B7"
+        stroke-width="2.2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        opacity=".28">
+
+        <!-- Tallo -->
+
+        <path d="M108 22
+                 C112 58 111 93 109 198"/>
+
+        <!-- Hoja Superior -->
+
+        <path d="M108 56
+                 C82 45 56 60 50 88
+                 C73 91 95 79 108 56"/>
+
+        <!-- Hoja Media -->
+
+        <path d="M109 96
+                 C137 80 167 90 178 118
+                 C151 121 127 112 109 96"/>
+
+        <!-- Hoja Inferior -->
+
+        <path d="M109 140
+                 C80 127 52 142 42 171
+                 C72 172 95 163 109 140"/>
+
+    </g>
+
+</svg>
